@@ -1,0 +1,11 @@
+input: .
+output: build
+url: # Add your website address here
+branding:
+  title: Cybersecurity Complete Guide
+links:
+- text: Home Page
+  link: readme.md
+favicon: static/favicon.ico
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved. Romane Devezeaux de Lavergne"
