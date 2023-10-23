@@ -7,5 +7,7 @@ links:
 - text: Home Page
   link: readme.md
 favicon: static/favicon.ico
+markdown:                     # Markdown configuration options
+lineBreaks: soft            # Switch between `soft` and `hard` line breaks
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved. Romane Devezeaux de Lavergne"
+  copyright: "&copy; Copyright {{ year }}. All rights reserved Romane Devezeaux de Lavergne"

@@ -1,5 +1,6 @@
 ---
-icon: ../static/cyberlogo.jpg
+icon: lock
+order: 150
 ---
 ![](../static/cybersec.jpg)
 

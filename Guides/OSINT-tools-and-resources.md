@@ -1,5 +1,6 @@
 ---
-image: 
+order: 149
+icon: rocket
 ---
 
 ![](../static/osint.png)
@@ -8,13 +9,15 @@ image:
 
 [OSINT Tool Collection](https://cipher387.github.io/osint_stuff_tool_collection/)
 
-#### Domain Name
+## Tools
+
+### Domain Name
 
 * [whois](https://docs.microsoft.com/en-us/sysinternals/downloads/whois) - Windows Whois performs the registration record for the domain name or IP address that you specify. 
 * [DNSrecon-gui](https://github.com/micro-joan/DNSrecon-gui) - DNSrecon tool with GUI for Kali Linux
 * [Dnsx](https://github.com/projectdiscovery/dnsx) - dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
 
-#### Subdomain
+### Subdomain
 
 * [subDomainsBrute](https://github.com/lijiejie/subDomainsBrute) - A fast sub domain brute tool for pentesters 
 * [ksubdomain](https://github.com/boy-hack/ksubdomain) - Subdomain enumeration tool, asynchronous dns packets, use pcap to scan 1600,000 subdomains in 1 second 
@@ -29,7 +32,7 @@ image:
 * [altdns](https://github.com/infosec-au/altdns) - Altdns takes in words that could be present in subdomains under a domain (such as test, dev, staging) as well as takes in a list of subdomains that you know of.
 * [dnscan](https://github.com/rbsec/dnscan) - Fast and lightweight dns bruteforcer with built-in wordlist and zone transfer checks.
 
-#### Google Hacking
+### Google Hacking
 
 * [GHDB](https://www.exploit-db.com/google-hacking-database/) - Google Hack Database
 * [SearchDiggity](http://www.bishopfox.com/resources/tools/google-hacking-diggity/attack-tools/) - SearchDiggity 3.1 is the primary attack tool of the Google Hacking Diggity Project 
@@ -38,7 +41,7 @@ image:
 * [Pagodo](https://github.com/opsdisk/pagodo) - pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching . 
 * [Google-Dorks](https://github.com/Proviesec/google-dorks) - Useful Google Dorks for WebSecurity and Bug Bounty
 
-#### Github 
+### Github 
 
 * [GitHacker](https://github.com/WangYihang/GitHacker) - 🕷️ A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers' mind. 
 * [GitGraber](https://github.com/hisxo/gitGraber) - gitGraber is a tool developed in Python3 to monitor GitHub to search and find sensitive data in real time for different online services. 
@@ -47,12 +50,12 @@ image:
 * [GitGot](https://github.com/BishopFox/GitGot) Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.
 * [GitDump](https://github.com/Ebryx/GitDump) - A pentesting tool that dumps the source code from .git even when the directory traversal is disabled
 
-#### SVN
+### SVN
 
 * [svnExploit](https://github.com/admintony/svnExploit) - Support for SVN source code disclosure of full version and Dump it. 
 * [SvnHack](https://github.com/callmefeifei/SvnHack) - SvnHack is a SVN folder disclosure exploit. :lock:
  
-#### Port Scan
+### Port Scan
 
 * [Nmap | Zenmap](https://nmap.org/) - Free and open source utility for network discovery and security auditing
 * [Masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously
@@ -68,7 +71,7 @@ image:
 * [Yujianportscan](https://github.com/foryujian/yujianportscan) A Fast Port Scanner GUI Tools  Build by VB.NET + IOCP 
 * [Naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity.
 
-#### Information gathering
+### Information gathering
 
 * [theHarvester](https://github.com/laramies/theHarvester)- E-mails, subdomains and names Harvester - OSINT
 * [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
@@ -97,6 +100,8 @@ image:
 - [ReconSpider - Advanced OSINT Framework](https://hakin9.org/reconspider-most-advanced-open-source-intelligence-osint-framework/)
 - [Nexfil - OSINT Tool for Finding Profiles](https://www.kitploit.com/2021/07/nexfil-osint-tool-for-finding-profiles.html?m=1)
 - [Intel Owl - OSINT Tool for Intel Gathering](https://portswigger.net/daily-swig/amp/intel-owl-osint-tool-automates-the-intel-gathering-process-using-a-single-api)
+
+
 ## Tools
 
 
