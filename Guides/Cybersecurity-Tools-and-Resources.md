@@ -4,8 +4,9 @@ order: 150
 ---
 ![](../static/cybersec.jpg)
 
-# Cybersecurity Tools and Resources
+# Cybersecurity Resources
 
+![](/static/cybersecurity/Type-of-attacks.jpg)
 ### Cybersecurity
 
 - ⭐ **[Free Cyber Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)** or [Applied Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content) - Cybersecurity Learning Resources

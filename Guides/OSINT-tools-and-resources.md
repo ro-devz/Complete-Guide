@@ -7,17 +7,23 @@ icon: rocket
 
 # OSINT Tools and Resources
 
-[OSINT Tool Collection](https://cipher387.github.io/osint_stuff_tool_collection/)
+⭐[OSINT Tool Collection](https://cipher387.github.io/osint_stuff_tool_collection/) Cyber Detective's OSINT tools collection.
 
-## Tools
+⭐[Dark Web Osing Tools](https://github.com/danieldurnea/Dark-Web-Osint-Tools-)
 
-### Domain Name
+⭐[OSINT Interception Links](https://github.com/C3n7ral051nt4g3ncy/OSINT_Inception-links)
+
+## Files
+
+[!file](/static/Files/Google%20Dorks%20Commands.pdf)
+
+## Domain Name
 
 * [whois](https://docs.microsoft.com/en-us/sysinternals/downloads/whois) - Windows Whois performs the registration record for the domain name or IP address that you specify. 
 * [DNSrecon-gui](https://github.com/micro-joan/DNSrecon-gui) - DNSrecon tool with GUI for Kali Linux
 * [Dnsx](https://github.com/projectdiscovery/dnsx) - dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
 
-### Subdomain
+## Subdomain
 
 * [subDomainsBrute](https://github.com/lijiejie/subDomainsBrute) - A fast sub domain brute tool for pentesters 
 * [ksubdomain](https://github.com/boy-hack/ksubdomain) - Subdomain enumeration tool, asynchronous dns packets, use pcap to scan 1600,000 subdomains in 1 second 
@@ -32,7 +38,7 @@ icon: rocket
 * [altdns](https://github.com/infosec-au/altdns) - Altdns takes in words that could be present in subdomains under a domain (such as test, dev, staging) as well as takes in a list of subdomains that you know of.
 * [dnscan](https://github.com/rbsec/dnscan) - Fast and lightweight dns bruteforcer with built-in wordlist and zone transfer checks.
 
-### Google Hacking
+## Google Hacking
 
 * [GHDB](https://www.exploit-db.com/google-hacking-database/) - Google Hack Database
 * [SearchDiggity](http://www.bishopfox.com/resources/tools/google-hacking-diggity/attack-tools/) - SearchDiggity 3.1 is the primary attack tool of the Google Hacking Diggity Project 
@@ -41,7 +47,7 @@ icon: rocket
 * [Pagodo](https://github.com/opsdisk/pagodo) - pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching . 
 * [Google-Dorks](https://github.com/Proviesec/google-dorks) - Useful Google Dorks for WebSecurity and Bug Bounty
 
-### Github 
+## Github 
 
 * [GitHacker](https://github.com/WangYihang/GitHacker) - 🕷️ A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers' mind. 
 * [GitGraber](https://github.com/hisxo/gitGraber) - gitGraber is a tool developed in Python3 to monitor GitHub to search and find sensitive data in real time for different online services. 
@@ -50,18 +56,18 @@ icon: rocket
 * [GitGot](https://github.com/BishopFox/GitGot) Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.
 * [GitDump](https://github.com/Ebryx/GitDump) - A pentesting tool that dumps the source code from .git even when the directory traversal is disabled
 
-### SVN
+## SVN
 
 * [svnExploit](https://github.com/admintony/svnExploit) - Support for SVN source code disclosure of full version and Dump it. 
 * [SvnHack](https://github.com/callmefeifei/SvnHack) - SvnHack is a SVN folder disclosure exploit. :lock:
  
-### Port Scan
+## Port Scan
 
 * [Nmap | Zenmap](https://nmap.org/) - Free and open source utility for network discovery and security auditing
 * [Masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously
 * [Ports](https://github.com/nixawk/pentest-wiki/blob/master/3.Exploitation-Tools/Network-Exploitation/ports_number.md) - Common service ports and exploitations
 * [Goby](https://gobies.org/) - Attack surface mapping
-   * [Gobyu-POC](https://github.com/20142995/Goby) - The POC of Goby .
+* [Gobyu-POC](https://github.com/20142995/Goby) - The POC of Goby .
 * [Goscan](https://github.com/marco-lancini/goscan) - Interactive Network Scanner
 * [NimScan](https://github.com/elddy/NimScan) - 🚀 Fast Port Scanner 🚀
 * [RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
@@ -71,7 +77,7 @@ icon: rocket
 * [Yujianportscan](https://github.com/foryujian/yujianportscan) A Fast Port Scanner GUI Tools  Build by VB.NET + IOCP 
 * [Naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity.
 
-### Information gathering
+## Information gathering
 
 * [theHarvester](https://github.com/laramies/theHarvester)- E-mails, subdomains and names Harvester - OSINT
 * [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
@@ -102,7 +108,7 @@ icon: rocket
 - [Intel Owl - OSINT Tool for Intel Gathering](https://portswigger.net/daily-swig/amp/intel-owl-osint-tool-automates-the-intel-gathering-process-using-a-single-api)
 
 
-## Tools
+## To sort
 
 
 [BruteShark](https://github.com/odedshimon/BruteShark?s=09) - A tool for network protocol analysis.
@@ -123,14 +129,10 @@ icon: rocket
 
 ## Resources
 
-- [Maltego Academic & Non-Profit Program Application](https://www.maltego.com/academic-non-profit-program-application/)
-
-- [HackerOne and Hackedu Partner to Offer Security Education](https://www.infosecurity-magazine.com/news/hackedu-hackerone-partner-to-offer?utm_source=twitterfeed&utm_medium=twitter)
-
-- [Fast Google Dorks Scan](https://www.kitploit.com/2020/06/fast-google-dorks-scan-fast-google.html)
-
-- [Pagodo - Passive Google Dork Automation](https://hakin9.org/pagodo-passive-google-dork-automate-google-hacking-database-scraping-and-searching)
-
-- [OSINT Curio - A Beginner's Guide to the Dark Web](https://osintcurio.us/2022/03/14/a-beginners-guide-to-the-dark-web/)
-[Creating Research Accounts for OSINT Investigations](https://osintcurio.us/2020/08/17/creating-research-accounts-for-osint-investigations)
+* [Maltego Program Application](https://www.maltego.com/academic-non-profit-program-application/) Maltego Academic & Non-profit Program.
+* [Infosecurity Magazine](https://www.infosecurity-magazine.com/news/hackedu-hackerone-partner-to-offer?utm_source=twitterfeed&utm_medium=twitter)  HackEDU and HackerOne Partner to Offer Free Training.
+* [Fast Google Dorks Scan](https://www.kitploit.com/2020/06/fast-google-dorks-scan-fast-google.html)  Fast-Google-Dorks-Scan - Fast Google Dorks Scan .
+* [Pagodo - Passive Google Dork Automation](https://hakin9.org/pagodo-passive-google-dork-automate-google-hacking-database-scraping-and-searching)  Automate Google Hacking Database scraping and searching.
+* [OSINT Curio - A Beginner's Guide to the Dark Web](https://osintcurio.us/2022/03/14/a-beginners-guide-to-the-dark-web/)
+* [Creating Research Accounts for OSINT Investigations](https://osintcurio.us/2020/08/17/creating-research-accounts-for-osint-investigations)
 

@@ -8,7 +8,10 @@ order: 148
 ## Table of Content
 
 ### OSINT
-- [OSINT Tool Collection](https://cipher387.github.io/osint_stuff_tool_collection/)
+
+* [OSINT Tool Collection](https://cipher387.github.io/osint_stuff_tool_collection/)
+* [Dark Web Osing Tools](https://github.com/danieldurnea/Dark-Web-Osint-Tools-)
+* [OSINT Interception Links](https://github.com/C3n7ral051nt4g3ncy/OSINT_Inception-links) OSINT Inception Links.
 * [GitHacker](https://github.com/WangYihang/GitHacker) - 🕷️ A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers' mind. 
 * [GitGraber](https://github.com/hisxo/gitGraber) - gitGraber is a tool developed in Python3 to monitor GitHub to search and find sensitive data in real time for different online services. 
 * [GitMiner](https://github.com/UnkL4b/GitMiner) - Tool for advanced mining for content on Github. 

@@ -1,4 +1,12 @@
+---
+order: 142
+icon: alert
+---
+
+![](/static/cybersecurity/mindmap-pentest.jpg)
+
 # Bug Bounty and Hacking Resources
+
 [Awsome Bug Bounty Cheat Sheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
 
 [Bug Bounty Roadmaps](https://github.com/1ndianl33t/Bug-Bounty-Roadmaps) - A GitHub repository containing bug bounty roadmaps.

@@ -4,7 +4,7 @@ icon: home
 ---
 
 # Cybersecurity Tools and Resources
-!!! contrast Welcome
+!!! ghost Welcome
 Welcome to the Cybersecurity Tools and Resources section, your gateway to a curated collection of tools, software, and resources to boost your cybersecurity capabilities. This section covers a wide range of resources, including OSINT (Open Source Intelligence), penetration testing, and more.
 !!!
 
@@ -20,17 +20,20 @@ Welcome to the Cybersecurity Tools and Resources section, your gateway to a cura
 
 [!ref icon=mark-github](/Guides/Github-repositories.md)
 
-[!ref icon="shield"](/Guides/Miscellaneous.md)
+[!ref icon="book"](/Guides/Courses-and-programmes.md)
+
+[!ref icon='checklist'](/Guides/Cheat-Sheet.md)
 
 [!ref icon="bug"](/Guides/Penetration-Testing-Tools-and-Resources.md)
 
+[!ref icon="alert"](/Guides/Bug-Bounty-and-Hacking-Resources.md)
+
+[!ref icon="shield"](/Guides/Miscellaneous.md)
+
+[!ref icon="globe"](/Guides/Web-Crawlers-and-Enumeration-Tools.md)
+
+
 [!ref icon="unmute"](/Guides/Podcasts.md)
-
-[!ref Web Crawlers and Enumeration Tools](/Guides/Web-Crawlers-and-Enumeration-Tools.md)
-
-[!ref Bug Bounty and Hacking Resources](/Guides/Bug-Bounty-and-Hacking-Resources.md)
-
-
 
 
 ## Get Started
