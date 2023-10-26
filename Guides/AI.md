@@ -22,21 +22,21 @@ order: 148
 - [Open Assistant](https://open-assistant.io/) - Open **Assistant**.
 - [Hints Al](https://hints.so/) - Digital **organizer** to manage your day-to-day activities.
 - [MarcBot](https://bot.marc.io/) - An AI **assistant** that lives inside Telegram.
-- [MagicalAl](https://www.getmagical.com/) - Save multiple hours by **automating** boring and repetitive **tasks**.
+- :icon-checklist: [MagicalAl](https://www.getmagical.com/) - Save multiple hours by **automating** boring and repetitive **tasks**.
 
 
 ## Writing Assistance
 
-- [EllieAl](https://tryellie.com/) - An **email** writing assistant that learns from your writing style.
-- [Rezi Al](https://www.rezi.ai/) - Revolutionize Job Search with AI-Powered **Resume** Writing.
-- [Kickresume](https://www.kickresume.com/en/) - AI tool to help you create a professional **resume** in minutes.
+- :icon-mail: [EllieAl](https://tryellie.com/) -  An **email** writing assistant that learns from your writing style. 
+- :icon-mortar-board: [Rezi Al](https://www.rezi.ai/) -  Revolutionize Job Search with AI-Powered **Resume** Writing.
+- :icon-mortar-board: [Kickresume](https://www.kickresume.com/en/) - AI tool to help you create a professional **resume** in minutes.
 - [SimplifiedAl](https://simplified.com/) - An AI writer for **blogs**, articles, ads, products, and websites.
 - [LongshotAl](https://www.longshot.ai/) - Writing assistant for accurate and optimized **content** writing.
 - [Docktopus](https://www.decktopus.com/) - Create compelling **slides** for your presentations with AI.
-- [GhostwryterAl](https://ghostwryter.net/) - An AI **writing** **assistant** made just for Google Docs.
-- [QuillBot](https://quillbot.com/) - AI-powered tool to enhance **writing**, paraphrase, check grammar, and detect tones.
+- :icon-file: [GhostwryterAl](https://ghostwryter.net/) -  An AI **writing** **assistant** made just for Google Docs.
+- :icon-file: [QuillBot](https://quillbot.com/) -  AI-powered tool to enhance **writing**, paraphrase, check grammar, and detect tones.
 - [WriteSonicAl](https://writesonic.com/) - Create SEO-optimized **content** 10x faster.
-- [Base64 Al](https://base64.ai/) - Extract text, data, photos, & more from all types of docs.
+- :icon-file-media: :icon-file: [Base64 Al](https://base64.ai/) - Extract text, data, photos, & more from all types of docs.
 
 ## Education
 
@@ -51,21 +51,21 @@ order: 148
 
 ## Content Creation
 
-- [Quinvio Al](https://www.quinv.io/ai) - Create video presentations using AI.
+- :icon-device-camera-video: [Quinvio Al](https://www.quinv.io/ai) - Create video presentations using AI. 
 - [Ludo Al](https://ludo.ai/) - The comprehensive AI platform for game creation.
 - [RephraseAl](https://www.rephrase.ai/) - Convert your text into highly engaging videos in minutes.
 - [BlendAl](https://blend-ai.com/) - Create professional product visuals in seconds.
-- [CastmagicAl](https://www.castmagic.io/) - 10x Podcast Content With AI.
-- [Oxolo](https://www.oxolo.com/) - AI video generator creates engaging marketing videos in minutes!
-- [StockimgAl](https://stockimg.ai/) - Generate stock images, wallpapers, and other visual assets.
+- [CastmagicAl](https://www.castmagic.io/) - 10x Podcast Content With AI. :icon-unmute:
+- :icon-device-camera-video: [Oxolo](https://www.oxolo.com/) - AI video generator creates engaging marketing videos in minutes! 
+- :icon-file-image: [StockimgAl](https://stockimg.ai/) - Generate stock images, wallpapers, and other visual assets. 
 - [AI Picasso](https://www.aipicasso.app/) - Let you create amazing artwork using AI.
 
-## Meeting and Communication
+## :icon-person-fill: Meeting and Communication
 
 - [TL; DV](https://tldv.io/) - Record meetings to help you share call moments with AI.
 - [Chatthing](https://chatthing.ai/) - Turn any workspace into an AI Chatbot.
 
-## Web creation
+## :icon-globe: Web creation 
 
 - [Durable AI](https://durable.co/) - Make amazing **websites** in 30 seconds from scratch.
 - [BrowseAl](https://www.browse.ai/) - Let you scrape any website within 2 minutes.
