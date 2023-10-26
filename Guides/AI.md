@@ -1,4 +1,13 @@
-# AI 
+---
+icon: copilot
+---
+
+![](/static/ai.jpg)
+
+# Artifical Intelligences 
+
+- ⭐ [Offensive AI compilation](https://github.com/jiep/offensive-ai-compilation)
+
 ## AI Security and Trends
 - [Tripwire](https://www.tripwire.com/state-of-security/fighting-ai-cybercrime-ai-security?utm_content=266341899&utm_medium=social&utm_source=twitter&hss_channel=tw-37711082) - Fighting AI Cybercrime with AI Security.
 - [The year’s top 10 enterprise AI trends — so far](https://www.cio.com/article/305644/enterprise-artificial-intelligence-ai-trends.html) - The year’s top 10 enterprise AI trends — so far.

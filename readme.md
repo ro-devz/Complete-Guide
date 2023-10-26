@@ -18,6 +18,8 @@ Welcome to the Cybersecurity Complete Guide, your gateway to a curated collectio
 
 [!ref icon="rocket"](/Guides/OSINT-tools-and-resources.md)
 
+[!ref icon="copilot"](/Guides/AI.md)
+
 [!ref icon=mark-github](/Guides/Github-repositories.md)
 
 [!ref icon="book"](/Guides/Courses-and-programmes.md)
