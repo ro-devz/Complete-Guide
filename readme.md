@@ -3,9 +3,9 @@ label: Welcome
 icon: home
 ---
 
-# Cybersecurity Tools and Resources
+# Cybersecurity Complete Guide
 !!! ghost Welcome
-Welcome to the Cybersecurity Tools and Resources section, your gateway to a curated collection of tools, software, and resources to boost your cybersecurity capabilities. This section covers a wide range of resources, including OSINT (Open Source Intelligence), penetration testing, and more.
+Welcome to the Cybersecurity Complete Guide, your gateway to a curated collection of tools, software, and resources to boost your cybersecurity capabilities. This section covers a wide range of resources, including OSINT (Open Source Intelligence), penetration testing, and more.
 !!!
 
 ## Table of Contents
