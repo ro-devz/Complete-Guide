@@ -5,7 +5,7 @@ order: 150
 ![](../static/cybersec.jpg)
 
 # Cybersecurity Resources
-
+[Free Cybersecurity Ressources] (https://www.simplycyber.io/free-cyber-resources)
 ![](/static/cybersecurity/Type-of-attacks.jpg)
 ### Cybersecurity
 
