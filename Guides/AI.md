@@ -13,6 +13,7 @@ order: 148
 
 - [Tripwire](https://www.tripwire.com/state-of-security/fighting-ai-cybercrime-ai-security?utm_content=266341899&utm_medium=social&utm_source=twitter&hss_channel=tw-37711082) - Fighting AI Cybercrime with AI Security.
 - [The year’s top 10 enterprise AI trends — so far](https://www.cio.com/article/305644/enterprise-artificial-intelligence-ai-trends.html) - The year’s top 10 enterprise AI trends — so far.
+- [Hugging Chat](https://huggingface.co/chat/) - The first open-source alternative to ChatGPT.
 
 ## Workspace and Personal Assistants
 
@@ -23,6 +24,15 @@ order: 148
 - [Hints Al](https://hints.so/) - Digital **organizer** to manage your day-to-day activities.
 - [MarcBot](https://bot.marc.io/) - An AI **assistant** that lives inside Telegram.
 - :icon-checklist: [MagicalAl](https://www.getmagical.com/) - Save multiple hours by **automating** boring and repetitive **tasks**.
+- [WAGPT](https://wagpt.io/) - Voice & text messaging with ChatGPT on WhatsApp.
+- [Sttabot](https://sttabot.io/) - Turn prompts into fully functional AI apps without writing any code.
+- [TravelAl](https://www.travelplan-ai.com/?ref=producthunt) - Your personal travel assistant powered by AI.
+- [SidekickAl](https://www.sidekickai.com/) - Helps you to schedule your meetings.
+- [Microsoft Designer](https://designer.microsoft.com/) - Create amazing designs and images with lightning.
+- [Quest AI](https://www.quest.ai/) - Lets you build web applications faster.
+- [SupernormalAl](https://supernormal.com/) - An AI-powered meeting recorder.
+- [Cheat Layer](https://cheatlayer.com/) - Automate your business from end to end in natural language.
+
 
 
 ## Writing Assistance
@@ -48,6 +58,7 @@ order: 148
 - [AI Lawyer](https://ailawyer.pro/) - ChatGPT-powered **legal assistant** to help with decision-making.
 - [Testportal](https://www.testportal.net/) - Generate a complete **quiz** from your training materials.
 - [LawChatGPT](https://lawchatgpt.com/) - Create legal documents and agreements, research laws.
+- [Ask Your PDF](https://askyourpdf.com/) - An AI Chatbot that helps you interact with any PDF document.
 
 ## Content Creation
 
@@ -59,6 +70,9 @@ order: 148
 - :icon-device-camera-video: [Oxolo](https://www.oxolo.com/) - AI video generator creates engaging marketing videos in minutes! 
 - :icon-file-image: [StockimgAl](https://stockimg.ai/) - Generate stock images, wallpapers, and other visual assets. 
 - [AI Picasso](https://www.aipicasso.app/) - Let you create amazing artwork using AI.
+- [MarkopoloAl](https://www.markopolo.ai/) - Helps you do digital advertising on autopilot.
+- [Guidde AI](https://www.guidde.com/) - Create how-to videos in seconds.
+
 
 ## :icon-person-fill: Meeting and Communication
 
