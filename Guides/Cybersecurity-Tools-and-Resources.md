@@ -64,3 +64,6 @@ order: 150
 [Microsoft Defender for Office 365 Protection Stack](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/protection-stack-microsoft-defender-for-office365?view=o365-worldwide) - Information about the protection stack of Microsoft Defender for Office 365.
 
 [Analyzing Attack Patterns and TTP](https://www.maltego.com/blog/analyzing-attack-patterns-and-ttps/?utm_source=twitter&utm_medium=social&utm_campaign=CSO&utm_content=maltego.com) - Analyzing Attack Patterns and TTPs
+
+## To order:
+https://bloodhound.readthedocs.io/en/latest/data-collection/sharphound.html
