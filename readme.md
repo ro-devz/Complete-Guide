@@ -34,7 +34,7 @@ Welcome to the Cybersecurity Complete Guide, your gateway to a curated collectio
 
 [!ref icon=mark-github](/Guides/Github-repositories.md)
 
-[!ref icon="book"](/Guides/Courses-and-programmes.md)
+[!ref icon="book"](/Guides/Courses-and-programs.md)
 
 [!ref icon='checklist'](/Guides/Cheat-Sheet.md)
 
