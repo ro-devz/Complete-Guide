@@ -5,7 +5,7 @@ icon: home
 
 # Cybersecurity Complete Guide
 
-!!! ghost Welcome
+!!! [!ghost] Welcome
 Welcome to the Cybersecurity Complete Guide, my collection of tools, software, and resources to boost my cybersecurity capabilities. This section covers a wide range of resources, including OSINT (Open Source Intelligence), penetration testing, and more.
 !!!
 
