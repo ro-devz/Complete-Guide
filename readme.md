@@ -5,10 +5,6 @@ icon: home
 
 # Cybersecurity Complete Guide
 
-!!! [!ghost] Welcome
-Welcome to the Cybersecurity Complete Guide, my collection of tools, software, and resources to boost my cybersecurity capabilities. This section covers a wide range of resources, including OSINT (Open Source Intelligence), penetration testing, and more.
-!!!
-
 ## Table of Contents
 
 [!ref icon=shield-lock](/Guides/Pentest-tools.md)
