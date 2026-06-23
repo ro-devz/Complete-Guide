@@ -35,12 +35,5 @@ icon: home
 [!ref icon="unmute"](/Guides/Podcasts.md)
 
 
-## Get Started
 
-Explore the sections above to access a wealth of resources to bolster your cybersecurity skills and knowledge. From OSINT tools to penetration testing resources and guidelines for securing your LinkedIn and social media profiles, this section offers valuable insights and practical assistance for various aspects of cybersecurity.
-
-
-Copyright © [Romane Devezeaux de Lavergne] - All rights reserved.
-
-This content belongs to Romane Devezeaux de Lavergne.
 
